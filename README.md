@@ -5,4 +5,4 @@ This project was carried out using the following tools;
 2. Transformation and Visualization with Power Bi.
 
 # Recommendations
-Regions with higher revenue can be uptimized
+Regions with lower revenue can be uptimized
